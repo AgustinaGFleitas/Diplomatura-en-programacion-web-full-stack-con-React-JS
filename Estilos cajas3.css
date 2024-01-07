@@ -1,0 +1,54 @@
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+    height: 172px;
+
+    border-width: 1,5 px;
+    border-color: black;
+    border-style: solid;
+}
+
+.item1 {
+    width: 166px ;
+    height: 166px ;
+    border-width: 1 px;
+    display: flex;
+    border-style: solid;  
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    border-width: 1 px;
+    border-color: red;
+    color:azure;
+}
+
+.item2 {
+    width: 166px ;
+    height: 166px ;
+    border-width: 1 px;
+    display: flex;
+    border-style: solid;  
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    border-width: 1 px;
+    border-color: blue;
+    color:azure;
+}
+
+.item3 {
+    width: 166px ;
+    height: 166px ;
+    border-width: 1 px;
+    display: flex;
+    border-style: solid;  
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    border-width: 1 px;
+    border-color: green;
+    color:azure;
+}
